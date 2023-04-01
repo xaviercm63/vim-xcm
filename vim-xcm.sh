@@ -10,6 +10,7 @@ Plug 'tpope/vim-sensible'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'dmerejkowsky/vim-ale'
+Plug 'ervandew/supertab'
 call plug#end()
 EOF
 
